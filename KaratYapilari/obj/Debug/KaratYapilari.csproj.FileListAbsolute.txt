@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\bin\Debug\KaratYapilari.exe.config
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\bin\Debug\KaratYapilari.exe
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\bin\Debug\KaratYapilari.pdb
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\obj\Debug\KaratYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\obj\Debug\KaratYapilari.exe
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\obj\Debug\KaratYapilari.pdb
+C:\Users\Hp\source\repos\KaratYapilari\KaratYapilari\obj\Debug\KaratYapilari.csprojResolveAssemblyReference.cache
